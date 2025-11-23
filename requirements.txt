@@ -1,0 +1,3 @@
+# Requirements for OS Lab Assignment 2
+# Python 3.6 or higher
+# Standard libraries only - no external packages needed
